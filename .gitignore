@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+source_dataset/
+custom_dataset/
+dataset/
+*.zip
+*.pt
+runs/
+.streamlit/secrets.toml

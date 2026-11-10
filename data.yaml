@@ -1,0 +1,14 @@
+path: custom_dataset
+
+train: images/train
+val: images/val
+
+nc: 6
+
+names:
+  0: cellphone
+  1: bottle
+  2: remote
+  3: ring
+  4: chain
+  5: notebook
